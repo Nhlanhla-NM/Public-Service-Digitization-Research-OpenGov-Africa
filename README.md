@@ -13,7 +13,7 @@ Project includes research of the following countries (**Nigeria**, **South Afric
 - Build digitization score dataset
 
 # Executive Summary
-# Insights 
+## Insights 
 - There are **42 hybrid public services (75%)** out of all 10 countries being the highest compared to **Active public services (1,78%) with 1** and **Not active public services (23,2%) with 13**
 
 - This intel a strong movement or transaction towards digitization as majority of countries public services are at 75% in Hybrid or partially digitalized
